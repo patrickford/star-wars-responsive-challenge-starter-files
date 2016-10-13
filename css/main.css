@@ -1,0 +1,23 @@
+.title {
+  background-color: #EFBC44;
+  width: 100%;
+  text-align: left;
+  padding-left: 3%;
+}
+
+.character {
+  border: 1px solid grey;
+  margin-bottom: 20px;
+}
+
+.img {
+  width: 100%;
+}
+
+h4, h5 {
+  margin-left: 15px;
+}
+
+h5 {
+  font-weight: normal;
+}
